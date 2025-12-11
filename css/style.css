@@ -1,4 +1,14 @@
 
+/* Make sure the icons are visible */
+.elementor-menu-toggle__icon--open,
+.elementor-menu-toggle__icon--close {
+  font-size: 24px;  /* Adjust the size as necessary */
+  display: inline-block;
+  color: #000; /* Adjust the color as necessary */
+}
+
+
+
 		img.wp-smiley,
 		img.emoji {
 			display: inline !important;
